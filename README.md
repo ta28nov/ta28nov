@@ -73,13 +73,7 @@ const developer = {
     "Advanced Animation Techniques (GSAP, Framer Motion)",
     "3D Web Experiences (Three.js, WebGL, Spline)",
     "AI/ML Integration (Google Gemini, OpenAI)"
-  ],
-  
-  workingOn: {
-    project: "AI Learning Platform",
-    tech: ["Python", "FastAPI", "React", "MongoDB", "Google Gemini"],
-    status: "In Development 🚀"
-  }
+  ]
 };
 ```
 
@@ -259,151 +253,6 @@ const developer = {
 
 <br/>
 
-<!-- FEATURED PROJECTS WITH 3D PREVIEWS -->
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35px"> Featured Projects
-
-</div>
-
-<!-- PROJECT 1: THE LAST LIGHTHOUSE KEEPER -->
-<div align="center">
-
-### 🎬 [The Last Lighthouse Keeper](https://github.com/ta28nov/the-last-lighthouse-keeper)
-
-<!-- 3D PREVIEW GIF -->
-<a href="https://the-last-lighthouse-keeper-ta28nov.vercel.app/">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="800">
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-
-</div>
-
-> 📖 **Trải nghiệm kể chuyện tương tác đột phá** - Hành trình 45 năm của người gác đèn biển cuối cùng tại Việt Nam
-
-**✨ Highlights:**
-- 🎬 Cinematic scroll animations với Framer Motion
-- 📖 10 chapters đầy cảm xúc
-- 🖼️ 52 high-quality images được optimize (<150KB)
-- ⚡ Performance tối ưu: Load time < 2s
-- 📱 Fully responsive design
-
-<div align="center">
-
-**🔗 [Live Demo →](https://the-last-lighthouse-keeper-ta28nov.vercel.app/)**
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- PROJECT 2: AI LEARNING PLATFORM -->
-<div align="center">
-
-### 🤖 [AI Learning Platform](https://github.com/ta28nov)
-
-<!-- AI ANIMATION GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="800">
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-
-</div>
-
-> 🧠 **Intelligent Learning Management System** - Tự động tạo khóa học với Google Gemini AI, cá nhân hóa lộ trình học tập
-
-**✨ Highlights:**
-- 🤖 Tích hợp Google Gemini AI cho course generation
-- 📊 Real-time progress tracking với video progress
-- 🔐 JWT-based authentication & role-based access
-- 📱 RESTful API với FastAPI
-- 🎯 Dynamic complexity assessments
-
-**📅 Timeline:** 09/2025 - 12/2025
-
-<div align="center">
-
-**🔗 [Live Demo →](https://ailearningdemoui.vercel.app/)**
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- PROJECT 3: HOTEL BOOKING PLATFORM -->
-<div align="center">
-
-### 🏨 [Hotel Booking Platform](https://github.com/ta28nov)
-
-<!-- HOTEL ANIMATION GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="800">
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/.NET_7-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"/>
-
-</div>
-
-> 🏨 **Fullstack Booking Platform** - Tích hợp Idnib API cho đặt phòng khách sạn an toàn
-
-**✨ Highlights:**
-- 🔐 Fullstack hotel management với secure booking
-- 💳 Idnib API integration
-- 🎨 Responsive UI với animations
-- 🗄️ SQL Server data persistence
-- 🔑 JWT & role-based access control
-
-**📅 Timeline:** 03/2025 - 05/2025
-
-<div align="center">
-
-**🎥 [Watch Demo on YouTube →](https://youtu.be/Pe094_87R9I?si=0JE-wp-ygrFaOnZ5)**
-
-<!-- YOUTUBE VIDEO PREVIEW -->
-<a href="https://youtu.be/Pe094_87R9I?si=0JE-wp-ygrFaOnZ5">
-  <img src="https://img.youtube.com/vi/Pe094_87R9I/maxresdefault.jpg" width="600" alt="Hotel Booking Demo"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- GOALS SECTION WITH ANIMATED ICONS -->
-<div align="center">
-
-## 🎯 Goals for 2025
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -513,9 +362,6 @@ const developer = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 
 <br/><br/>
-
-### 💬 *"The best way to predict the future is to create it."*
-**— Peter Drucker**
 
 <br/>
 
